@@ -34,7 +34,9 @@
 
     Ensure you have your trained model file (fast_plant_model.pth) placed inside the backend directory.
 
-    Step 1: Run the Backend (API Server)
+  **Step 1:**
+  
+    Run the Backend (API Server)
 
     The backend handles the model loading, inference, Grad-CAM generation, and serves the prediction API.
 
